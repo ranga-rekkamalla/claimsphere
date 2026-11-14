@@ -2,7 +2,7 @@
 
 A claims-adjudication workspace for ABC Insurance, built as the **Senior UI Engineering case study**. It has a landing grid over **25,000 claims** and a document workspace that opens **100 MB – 1 GB** PDFs, where users can edit, split, merge, delete pages, comment and annotate. Role-based access is enforced by the backend and reflected in the UI.
 
-> **Live demo:** https://rranga.github.io/claimsphere/ · **Author:** Rangaprasad
+> **Live demo:** https://ranga-rekkamalla.github.io/claimsphere/ · **Author:** Rangaprasad
 >
 > **Stack:** React 19 · TypeScript (strict) · Vite · Tailwind CSS v4 · React Router · TanStack Query · Redux Toolkit · TanStack Virtual · pdf.js · Radix UI · Zod · MSW · Vitest · Playwright · axe-core
 >
